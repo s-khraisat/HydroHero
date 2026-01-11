@@ -1,21 +1,35 @@
-<<<<<<< HEAD
-# bmi
+# 🌊 HydroHero
 
-A new Flutter project.
+A minimal Flutter app to track daily water intake with a clean interface, progress visualization, and Firebase sync.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Daily water tracking  
+- Progress indicator  
+- Automatic daily reset  
+- Firebase Authentication  
+- Firestore data storage  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# HydroHero
-Flutter
->>>>>>> b5c22971b5d9a5e5ab431f1c9973b95034728fc6
+```bash
+git clone https://github.com/s-khraisat/HydroHero.git
+cd HydroHero
+flutter pub get
+flutter run
+```
+
+---
+
+## 🛠 Tech Stack
+- Flutter (Dart)  
+- Firebase Auth  
+- Cloud Firestore  
+
+---
+
+## 👤 Author
+**Sarah Khraisat**
