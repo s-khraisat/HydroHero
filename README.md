@@ -1,35 +1,34 @@
 # 🌊 HydroHero
 
-A minimal Flutter app to track daily water intake with a clean interface, progress visualization, and Firebase sync.
+**HydroHero** is a sleek and minimal Flutter app designed to help you **track your daily water intake**, visualize progress, and stay hydrated with a clean, user-friendly interface.  
+Sync your data effortlessly with **Firebase** and enjoy daily motivation to reach your hydration goals.  
+
+🎥 **Watch the Demo:** [HydroHero Video](https://youtube.com/shorts/_KYx50v4Sz0)
 
 ---
 
 ## ✨ Features
-- Daily water tracking  
-- Progress indicator  
-- Automatic daily reset  
-- Firebase Authentication  
-- Firestore data storage  
+- 💧 **Daily Water Tracking** – Log your water intake easily  
+- 📊 **Progress Visualization** – See your daily progress with interactive indicators  
+- 🔄 **Automatic Daily Reset** – Your intake resets every day for a fresh start  
+- 🔐 **Firebase Authentication** – Secure login and registration  
+- ☁️ **Cloud Storage** – Firestore keeps your data safe and synced  
 
 ---
 
 ## 🚀 Getting Started
 
+Follow these steps to run HydroHero locally:
+
 ```bash
+# Clone the repository
 git clone https://github.com/s-khraisat/HydroHero.git
+
+# Navigate into the project folder
 cd HydroHero
+
+# Install dependencies
 flutter pub get
+
+# Run the app
 flutter run
-```
-
----
-
-## 🛠 Tech Stack
-- Flutter (Dart)  
-- Firebase Auth  
-- Cloud Firestore  
-
----
-
-## 👤 Author
-**Sara Alkhrissat**
