@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011056949016",
+    "project_id": "hydrohero-c7110",
+    "storage_bucket": "hydrohero-c7110.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011056949016:android:a43c55598061e7ded7506d",
+        "android_client_info": {
+          "package_name": "com.example.bmi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY4U3B8NKjzH-fEsGlLL1mFvxKUeF4ses"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
