@@ -32,4 +32,4 @@ flutter run
 ---
 
 ## 👤 Author
-**Sarah Khraisat**
+**Sara Alkhrissat**
